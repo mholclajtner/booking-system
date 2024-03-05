@@ -1,0 +1,8 @@
+com\example\booking\service\BookingManagerTest.class
+com\example\booking\service\DeviceMonitoringServiceTest.class
+com\example\booking\service\SimpleBookingStrategyTest.class
+com\example\booking\service\MobilePhoneControllerTest.class
+com\example\booking\service\DeviceMonitorTest.class
+com\example\booking\service\BookingControllerTest.class
+com\example\booking\service\BookingStrategyTest.class
+com\example\booking\service\MobilePhoneFactoryTest.class
